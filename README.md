@@ -22,3 +22,68 @@ I am **Samuel Dushimimana**, a graduate from the first cohort in Software Engine
 
 In this article am going to outline the details of my contributions as a reference of project completion during the 12 weeks of coding.
 
+# 🌏 CONTRIBUTIONS Overview 
+
+During this period i have been working on specifically on 8 features:
+
+  1. License File View Management: This included the tasks of extracting the contents of the files, and taking the decisions of the licenses associated with it.
+  2. License Browser: This included designing the appropriate APIs for serving all the details regarding the tree view of files and the licenses associated with a specific upload.
+  4. Folder and Content Management: The tasks included desgining the missing APIs for managing the folder contents such as retrieving removable contents, and unlinking contents from specific parent folders.
+  5. Admin Dashboard Management: This task included desigining the APIs responsible for serving the full components of the dashboard such as database metrics, jobs statistics etc.
+  6. License Admin: This task included desiging the REST APIs enabling the Admin to manage the ackngoweledments and the standard comments.
+  7. CSV Operations: The task included desiginnig the REST APIs for importing and exporting the Licenses, and obligations.
+  8. Scheduler: The task included the REST APIs to enable the Admin to get different operations and the gives them the capability of runing specific operations in the project. 
+  9. FOssology API V2 configuration: The task included restructuring the REST APIs configuration such that It is able to serve the Version 2 of the REST APIs.
+
+
+Let's dive into each category in details to showcase all the contributions with the corresponding tests in screenshots where possible and the respective links to the Pull requests.
+
+##  LICENSE FILE VIEW MANAGEMENT :sparkles:
+
+1. Setting the clearing decision for a particular file [#2460](https://github.com/fossology/fossology/pull/2460)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/c1dc616c-aa8e-44d1-8990-0be63503a0c5)
+   
+3. Setting the main license for the Upload [#2462](https://github.com/fossology/fossology/pull/2462)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/d991ebb3-cea3-4fbe-9752-1f7ec22bb112)
+   
+5. Removing the main license from the Upload [#2463](https://github.com/fossology/fossology/pull/2463)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/cccb6515-6f61-4fe0-9891-c84913cdce40)
+
+6. License Decision Management (Add, edit & delete License Decision) [#2509](https://github.com/fossology/fossology/pull/2509)
+   
+   #### Request
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/36ca30e6-fa56-4dc3-85b1-f360f670b997)
+   #### Response
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/7b037367-2d55-4fa5-a64c-2a376c19c2ba)
+
+7. Get all main licenses for the the Upload [#2465](https://github.com/fossology/fossology/pull/2465)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/28e261ca-8448-4cc0-b63e-8c48c26622f3)
+
+8. List all the license decisions for the item [#2470](https://github.com/fossology/fossology/pull/2470)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/98c3c925-01ee-4e00-97ef-e05b4a4e69dc)
+
+10. Get the clearing history for a specific item [#2477](https://github.com/fossology/fossology/pull/2477)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/268214a0-2971-408e-b07a-de63c807e0ca)
+
+11. Schedule the bulk scan [#2483](https://github.com/fossology/fossology/pull/2483)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/f964b884-fec9-4968-8c5c-3eef76981bde)
+
+13. Handling three pointers functionality (moving from file to file). [#2480](https://github.com/fossology/fossology/pull/2480)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/2f562371-dc8d-48d8-ac44-c37b387da489)
+
+14. Get the bulk history list of the upload & item [#2481](https://github.com/fossology/fossology/pull/2481)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/bafb2559-6154-4d5a-b613-81561ee998a0)
+
+15. Get the clearing progress status of the upload [#2494](https://github.com/fossology/fossology/pull/2494)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/f5e2851e-a90e-49a1-887b-3f82d12d5ea9)
+
+16. Get the positions to be highlighted in the contents of the file [#2484](https://github.com/fossology/fossology/pull/2484)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/0e1e3ccc-2cb3-4ab1-9d6b-23da04fddbc2)
+
+17. Get the license tree-view of the upload and the item [#2492](https://github.com/fossology/fossology/pull/2492)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/ac8aa9f7-a0f1-4d87-92ad-a695a0fd9021)
+
+##  LICENSE Browser Management :sparkles:
+
+   
+   
