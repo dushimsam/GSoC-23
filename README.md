@@ -74,9 +74,6 @@ Let's dive into each category in details to showcase all the contributions with 
 14. Get the bulk history list of the upload & item [#2481](https://github.com/fossology/fossology/pull/2481)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/bafb2559-6154-4d5a-b613-81561ee998a0)
 
-15. Get the clearing progress status of the upload [#2494](https://github.com/fossology/fossology/pull/2494)
-    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/f5e2851e-a90e-49a1-887b-3f82d12d5ea9)
-
 16. Get the positions to be highlighted in the contents of the file [#2484](https://github.com/fossology/fossology/pull/2484)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/0e1e3ccc-2cb3-4ab1-9d6b-23da04fddbc2)
 
@@ -85,5 +82,28 @@ Let's dive into each category in details to showcase all the contributions with 
 
 ##  LICENSE Browser Management :sparkles:
 
+1. Get the clearing progress status of the upload [#2494](https://github.com/fossology/fossology/pull/2494)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/f5e2851e-a90e-49a1-887b-3f82d12d5ea9)
+
+2. Get the scanned licenses for the upload [#2495](https://github.com/fossology/fossology/pull/2495)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/6ad8bd14-2ed0-4580-b76c-7a9f5fabeb8e)
+
+3. Get the licenses histogram for the upload [#2497](https://github.com/fossology/fossology/pull/2497)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/9071acec-18a3-4d95-989e-0d763a334e86)
+
+4. Get the edited licenses for the upload [#2498](https://github.com/fossology/fossology/pull/2498)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/a6fdf2dc-73d0-4a81-a146-a672ba635be9)
+
+5. Get the licenses's count summary for the upload [#2499](https://github.com/fossology/fossology/pull/2499)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/a5a59a4f-d14b-41fa-9bad-b31d8b9c2791)
+
+6. Get the licenses' reuse summary list for the upload [#2501](https://github.com/fossology/fossology/pull/2501)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/42ed7f7f-0469-4ae4-99e0-aec8add43887)
+
+7. Get all the agents for the upload [#2502](https://github.com/fossology/fossology/pull/2502)
+
+8. Get all the agents' revisions for the upload [#2506](https://github.com/fossology/fossology/pull/2506)
+
+###  LICENSE FILE VIEW MANAGEMENT :sparkles:
    
-   
+
