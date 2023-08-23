@@ -183,3 +183,10 @@ Let's dive into each category in details to showcase all the contributions with 
  3. Import the obligations from the CSV  [#2563](https://github.com/fossology/fossology/pull/2563)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/ef77556f-715d-4ceb-b8b7-6f7b5a935624)
 
+#### FOssology API V2 configuration
+
+Redesigned the FOSSology API Config to support version 2 of REST APIs. Currently, the codebase was designed to support only version 1 of REST APIS which would be hard to introduce and utilize the new features offered by Version 2. [#2576](https://github.com/fossology/fossology/pull/2576)
+ 
+
+
+
