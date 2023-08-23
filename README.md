@@ -104,6 +104,31 @@ Let's dive into each category in details to showcase all the contributions with 
 
 8. Get all the agents' revisions for the upload [#2506](https://github.com/fossology/fossology/pull/2506)
 
-###  LICENSE FILE VIEW MANAGEMENT :sparkles:
-   
+###  LICENSE ADMIN Management :sparkles:
+
+1. Get all the licenses admin acknowledgements [#2512](https://github.com/fossology/fossology/pull/2512)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/e7d0dc8c-37f1-4d4c-ac83-343c75a18f1d)
+
+3. Manage (Add, Edit, Remove & toggle) license admin acknowledgment [#2516](https://github.com/fossology/fossology/pull/2516)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/366b748e-e289-45f8-a489-67db12f6ebf0)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/266b2b82-da5d-4783-bb6e-dbc00f9f0b55)
+
+4. Get all the standard comments [#2517](https://github.com/fossology/fossology/pull/2517)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/b005ff6e-6e92-4220-8214-0a55dbe55dff)
+
+5. Search and suggest license from the given reference text [#2524](https://github.com/fossology/fossology/pull/2524)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/271123b1-3595-4d78-b6ef-cd5dd5a2e0c1)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/e1ecc3dd-1b03-454c-8232-4da8680e49c6)
+
+7. Verify a particular license as a new or a variant [#2528](https://github.com/fossology/fossology/pull/2528)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/8ee0e737-b47c-45e1-8461-bf688b7de2b9)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/06a3ca67-74e0-47d8-98f1-b39860827684)
+
+9. Merge a license into an existing one [#2529](https://github.com/fossology/fossology/pull/2529)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/ddd53dcd-b3ce-4564-b60b-3aecbde9c161)
+
+11. Manage (add, edit & toggle) the standard license comment [#2518](https://github.com/fossology/fossology/pull/2518)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/6b10eabe-9cbf-4bec-bb6f-e04edd455491)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/4e198ac6-3545-4035-9941-08f653ace9f8)
+
 
