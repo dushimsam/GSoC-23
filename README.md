@@ -131,4 +131,16 @@ Let's dive into each category in details to showcase all the contributions with 
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/6b10eabe-9cbf-4bec-bb6f-e04edd455491)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/4e198ac6-3545-4035-9941-08f653ace9f8)
 
+#### Admin Dashboard Management:
 
+1. Get the database contents for the dashboard overview [#2530](https://github.com/fossology/fossology/pull/2530)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/4168a413-a3c8-4690-b5db-f1cb20ca6ced)
+
+2. Get the database metrics for the dashboard overview [#2532](https://github.com/fossology/fossology/pull/2532)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/29f28e8b-5514-4169-88dd-eff57eb7d3ab)
+
+3. Get the active queries for the dashboard overview [#2533](https://github.com/fossology/fossology/pull/2533)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/bd6d7964-877e-4fc8-adbb-50748fe329d4)
+
+4. Get the disk space usage details for the dashboard overview [#2534](https://github.com/fossology/fossology/pull/2534)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/7868573f-8cbc-4466-b944-0d60c6caab3d)
