@@ -178,4 +178,8 @@ Let's dive into each category in details to showcase all the contributions with 
 
  1. Export the lisenses-list as a CSV [#2562](https://github.com/fossology/fossology/pull/2562)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/36ca8062-42fc-4303-b06f-7c877495f5cb)
+ 2. Export the obligation-list as a CSV [#2574](https://github.com/fossology/fossology/pull/2574)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/2c37b800-9454-4b87-a14e-e2b04e560c55)
+ 3. Import the obligations from the CSV  [#2563](https://github.com/fossology/fossology/pull/2563)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/ef77556f-715d-4ceb-b8b7-6f7b5a935624)
 
