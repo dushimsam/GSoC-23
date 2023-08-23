@@ -189,4 +189,53 @@ Redesigned the FOSSology API Config to support version 2 of REST APIs. Currently
  
 
 
+## Documentation:📄
+
+During the GSoC period, I got the time to create and organize documentation for both the [**FOSSology UI**](https://github.com/fossology/FOSSologyUI) and FOSSology [**REST-API**](https://github.com/fossology/fossology). The documentation contains all the user and developer information of the project and is organized in a way to be easily accessible by all.
+
+The weekly documentation of updates can be found at [**FOSSology/gsoc**](https://fossology.github.io/gsoc/docs/2022/ui/updates/samuel/2021-06-24)
+
+
+<h1 align="center">👨🏻‍🏫 DELIVERABLES <img src="https://api.ezeelo.com/Scripts/QRCode/Done.gif" width="40"></h1>
+
+| Tasks   | Planned | Completed     | Remarks    |
+| :---:       |    :----:   |    :---:      |    :---:      |
+| Adding new pages and improved existing UI   | Yes       | :heavy_check_mark: | The UI still needs more work both on the look and functionalities to enhance the user experience. |
+| Adding almost all APIs on GROUPs module , Maintenance and License   | Yes        | :heavy_check_mark:  | More APIs will continously need to be added as the UI Migration progresses |
+| Fixing some potential the existing bugs| Yes | :heavy_check_mark: | There're still alot of issues to work on , escpecially on the side of  [FOSSology](https://github.com/fossology/fossology/issues) |
+| Fixing Vulnerable FOSSology UI's dependencies| NO (WAS OPTIONAL) | :x: | Dependencies are continously added so this's approgressive task|
+| Integrating OAuth 2.0 | NO (WAS OPTIONAL) | :x: | Got the overview still needs more lessons to learn how to integrate it in the existing projects|
+
+## Future enhancements:🚀
+
+- Adding the skeleton loading on the UI components when the items are being fetched.
+- Adding search utilities on the select components from the UI.
+- Adding the pagination to the GET list APIs where appropriate and it's applicable.
+- Completing to add all the remaining pages on the License Administration Section.
+- Adding more REST-APIs from the backend.
+- Implementing Data caching on the UI to speed up the data display.
+
+## Major Takeaways: 📚
+
+- The project has familiarized me to write clean code for the REST-API end points.
+- I was taught how to write smart urls for my end points.
+- I explored the best practices of writing Javascript codes specifically for React Js.
+- Left me with a tangible experience of working remotely.
+- Gained the confidence of working on large codebases and learned how to meintain consistency in the enormous community of contributors.
+- I learned the power of collaboration and working in a team.
+- Got cool experience on contributing to the opensource projects.
+- The last but not least i learned how to code like an expert , it was a great privilege to learn from the previous work of the talented engineers a broad.
+
+## Links of work done: 🎯
+
+### Pull Requests 🔗
+
+- [FOSSology](https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Adushimsam)
+- [FOSSologyUI](https://github.com/fossology/FOSSologyUI/pulls?q=is%3Apr+author%3Adushimsam)
+
+# Let's get connected!
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-dushimimana-364a19194/)
+- [GitHub](https://github.com/dushimsam)
+- [Twitter](https://twitter.com/dushsamuel)
 
