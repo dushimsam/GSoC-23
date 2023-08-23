@@ -154,3 +154,12 @@ Let's dive into each category in details to showcase all the contributions with 
 7. Show the summary statistics for all jobs [#2537](https://github.com/fossology/fossology/pull/2537)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/9bf7edab-0a10-4dcc-8433-810f62fd9133)
 
+#### Manual Operation Scheduling Management
+
+1. Get the scheduler options for the given operation [#2538](https://github.com/fossology/fossology/pull/2538)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/a1bb7034-323e-41f4-bf48-f771ce8a9d94)
+
+2. Run the scheduler based on the given operation [#2539](https://github.com/fossology/fossology/pull/2539)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/d8629d8d-6e77-4b7b-86e3-dd72f40dc36e)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/daefcc86-2a90-4257-aa28-a549df5a3baf)
+
