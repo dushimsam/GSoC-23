@@ -144,3 +144,13 @@ Let's dive into each category in details to showcase all the contributions with 
 
 4. Get the disk space usage details for the dashboard overview [#2534](https://github.com/fossology/fossology/pull/2534)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/7868573f-8cbc-4466-b944-0d60c6caab3d)
+
+5. Get the current PHP info details for the dashboard overview [#2535](https://github.com/fossology/fossology/pull/2535)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/e6f55d9c-00a6-4b81-93f1-282fd20c0d5a)
+
+6. Get the server jobs for the Admin Dashboard [#2536](https://github.com/fossology/fossology/pull/2536)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/d235f31e-59ce-4d86-8db8-b269d5e512e1)
+
+7. Show the summary statistics for all jobs [#2537](https://github.com/fossology/fossology/pull/2537)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/9bf7edab-0a10-4dcc-8433-810f62fd9133)
+
