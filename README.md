@@ -163,3 +163,19 @@ Let's dive into each category in details to showcase all the contributions with 
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/d8629d8d-6e77-4b7b-86e3-dd72f40dc36e)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/daefcc86-2a90-4257-aa28-a549df5a3baf)
 
+####  Folder and Content Management
+
+1.  Get all the contents of the given folder [#2555](https://github.com/fossology/fossology/pull/2555)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/21de9279-501b-49b4-9892-0c02b8ec0f15)
+
+3.  Get removable of the given folder [#2551](https://github.com/fossology/fossology/pull/2551)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/5fc1f685-d4ef-412d-a4ba-636b7468f876)
+
+4. Unlink the folder contents [#2552](https://github.com/fossology/fossology/pull/2552)
+   ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/15084ef2-778a-4092-bf96-4d392962c515)
+
+#### CSV Operations
+
+ 1. Export the lisenses-list as a CSV [#2562](https://github.com/fossology/fossology/pull/2562)
+    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/36ca8062-42fc-4303-b06f-7c877495f5cb)
+
