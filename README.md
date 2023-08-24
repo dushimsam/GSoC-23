@@ -204,9 +204,7 @@ Redesigned the FOSSology API Config to support version 2 of REST APIs. Currently
 
 ## Documentation:📄
 
-During the GSoC period, I got the time to create and organize documentation for both the [**FOSSology UI**](https://github.com/fossology/FOSSologyUI) and FOSSology [**REST-API**](https://github.com/fossology/fossology). The documentation contains all the user and developer information of the project and is organized in a way to be easily accessible by all.
-
-The weekly documentation of updates can be found at [**FOSSology/gsoc**](https://fossology.github.io/gsoc/docs/2022/ui/updates/samuel/2021-06-24)
+Throughout the 12 weeks of the GSoC period, I dedicated time to create weekly documentation to track and record updates. The weekly documentation of updates can be accessed [**here**](https://fossology.github.io/gsoc/docs/2023/rest/updates/samuel/2023-06-01)
 
 
 <h1 align="center">👨🏻‍🏫 DELIVERABLES <img src="https://api.ezeelo.com/Scripts/QRCode/Done.gif" width="40"></h1>
