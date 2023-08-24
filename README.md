@@ -18,7 +18,7 @@
 
 About me 👩‍💻
 
-I am **Samuel Dushimimana**, a graduate from the first cohort in Software Engineering and Embedded Systems at [**Rwanda Coding Academy**](http://rca.ac.rw/) with more than 4 years of experience in building full stack applications. I'm so excited to be a part of FOSSology community in Google Summer of Code 2023.
+Hello, I'm **Samuel Dushimimana**, a proud graduate from the first class of Software Engineering and Embedded Systems at [**Rwanda Coding Academy**](http://rca.ac.rw/). With over 4 years of hands-on experience in building full stack applications, I'm thrilled to be an active member of the FOSSology community for Google Summer of Code 2023.
 
 In this article am going to outline the details of my contributions as a reference of project completion during the 12 weeks of coding.
 
