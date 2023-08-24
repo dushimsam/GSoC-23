@@ -24,7 +24,7 @@ In this article am going to outline the details of my contributions as a referen
 
 # 🌏 CONTRIBUTIONS Overview 
 
-During this period i have been working on specifically on 8 features:
+   During my participation in the Google Summer of Code (GSoC) program, I focused on implementing and enhancing eight key features within the project:
 
   1. #### License File View Management:
      I developed the REST APIs that tackled on extracting file contents and making the clearing decisions about associated licenses. This involved extracting, processing and highlighting 
