@@ -93,7 +93,7 @@ Let's dive deep into each category in more details to showcase all the contribut
 17. Get the license tree-view of the upload and the item [#2492](https://github.com/fossology/fossology/pull/2492)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/ac8aa9f7-a0f1-4d87-92ad-a695a0fd9021)
 
-##  LICENSE Browser Management :sparkles:
+##  License Browser :sparkles:
 
 1. Get the clearing progress status of the upload [#2494](https://github.com/fossology/fossology/pull/2494)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/f5e2851e-a90e-49a1-887b-3f82d12d5ea9)
@@ -117,7 +117,7 @@ Let's dive deep into each category in more details to showcase all the contribut
 
 8. Get all the agents' revisions for the upload [#2506](https://github.com/fossology/fossology/pull/2506)
 
-###  LICENSE ADMIN Management :sparkles:
+## License Admin Management :sparkles:
 
 1. Get all the licenses admin acknowledgements [#2512](https://github.com/fossology/fossology/pull/2512)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/e7d0dc8c-37f1-4d4c-ac83-343c75a18f1d)
@@ -144,7 +144,7 @@ Let's dive deep into each category in more details to showcase all the contribut
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/6b10eabe-9cbf-4bec-bb6f-e04edd455491)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/4e198ac6-3545-4035-9941-08f653ace9f8)
 
-#### Admin Dashboard Management:
+## Admin Dashboard Management :sparkles:
 
 1. Get the database contents for the dashboard overview [#2530](https://github.com/fossology/fossology/pull/2530)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/4168a413-a3c8-4690-b5db-f1cb20ca6ced)
@@ -167,7 +167,7 @@ Let's dive deep into each category in more details to showcase all the contribut
 7. Show the summary statistics for all jobs [#2537](https://github.com/fossology/fossology/pull/2537)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/9bf7edab-0a10-4dcc-8433-810f62fd9133)
 
-#### Manual Operation Scheduling Management
+## Manual Scheduling of Operations :sparkles:
 
 1. Get the scheduler options for the given operation [#2538](https://github.com/fossology/fossology/pull/2538)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/a1bb7034-323e-41f4-bf48-f771ce8a9d94)
@@ -176,7 +176,7 @@ Let's dive deep into each category in more details to showcase all the contribut
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/d8629d8d-6e77-4b7b-86e3-dd72f40dc36e)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/daefcc86-2a90-4257-aa28-a549df5a3baf)
 
-####  Folder and Content Management
+##  Folder and Content Management :sparkles:
 
 1.  Get all the contents of the given folder [#2555](https://github.com/fossology/fossology/pull/2555)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/21de9279-501b-49b4-9892-0c02b8ec0f15)
@@ -187,7 +187,7 @@ Let's dive deep into each category in more details to showcase all the contribut
 4. Unlink the folder contents [#2552](https://github.com/fossology/fossology/pull/2552)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/15084ef2-778a-4092-bf96-4d392962c515)
 
-#### CSV Operations
+## CSV Operations :sparkles:
 
  1. Export the lisenses-list as a CSV [#2562](https://github.com/fossology/fossology/pull/2562)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/36ca8062-42fc-4303-b06f-7c877495f5cb)
@@ -196,7 +196,7 @@ Let's dive deep into each category in more details to showcase all the contribut
  3. Import the obligations from the CSV  [#2563](https://github.com/fossology/fossology/pull/2563)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/ef77556f-715d-4ceb-b8b7-6f7b5a935624)
 
-#### FOssology API V2 configuration
+## FOssology API V2 configuration :sparkles:
 
 Redesigned the FOSSology API Config to support version 2 of REST APIs. Currently, the codebase was designed to support only version 1 of REST APIS which would be hard to introduce and utilize the new features offered by Version 2. [#2576](https://github.com/fossology/fossology/pull/2576)
  
