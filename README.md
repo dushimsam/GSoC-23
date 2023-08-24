@@ -217,14 +217,25 @@ Throughout the 12 weeks of the GSoC period, I dedicated time to create weekly do
 | Integrating the new APIs on the FOSSology UI side | NO (WAS OPTIONAL) | :x: | This is an ongoing work, as we will add more APIs in the future |
 | Implementing the OAuth 2.0 | NO (WAS OPTIONAL) | :x: | We are looking how to use it with Slim |
 
-## Future enhancements:🚀
+make this more clearer 
 
-- Adding the skeleton loading on the UI components when the items are being fetched.
-- Adding search utilities on the select components from the UI.
-- Adding the pagination to the GET list APIs where appropriate and it's applicable.
-- Completing to add all the remaining pages on the License Administration Section.
-- Adding more REST-APIs from the backend.
-- Implementing Data caching on the UI to speed up the data display.
+## Future enhancements:🚀
+In the pipeline are several exciting improvements to look forward to:
+
+- #### Updating REST APIs to Version 2 Standards:
+   We plan to update the existing REST APIs to align with the latest standards of Version 2. This update will ensure enhanced functionality, better usability, and improved compatibility with 
+   evolving requirements.
+- Integrating the new APIs on the FOSSOlogy UI.
+- Improving the performance of the APIs in terms of the response time and speed.
+- Increasing the compatibility of the current architecture (Monolithic) and the REST API architecture.
+
+
+
+Integration of New APIs with FOSSology UI: We're working on seamlessly integrating the newly developed APIs into the FOSSology user interface. This integration will provide users with a unified and intuitive experience, making it even more convenient to manage licenses and related tasks.
+
+Performance Boost for APIs: We're dedicated to enhancing the performance of the APIs in terms of response time and speed. This optimization will lead to quicker interactions, allowing users to efficiently navigate and interact with the platform.
+
+Enhanced Compatibility between Architectures: We're striving to improve compatibility between the current monolithic architecture and the REST API architecture. This will ensure a smooth transition, maintain a cohesive system, and enable efficient coexistence of both architectural styles.
 
 ## Major Takeaways: 📚
 
