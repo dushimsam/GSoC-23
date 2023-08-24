@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/66276301/188962690-5869b53c-99bb-4012-b13f-443832568f7e.png)
 
-## Google Summer of Code 2023 🚩 Report: "REST API and UI improvements" 👨‍💻
+## Google Summer of Code 2023 🚩 Report: "REST API Improvements" 👨‍💻
 <!-- 
 ![ViewCount](https://views.whatilearened.today/views/github/dushimsam/GSoC-2023.svg)
 ![GitHub](https://img.shields.io/github/followers/dushimsam?style=social)
@@ -26,19 +26,21 @@ In this article am going to outline the details of my contributions as a referen
 
 During this period i have been working on specifically on 8 features:
 
-  1. License File View Management: This included the tasks of extracting the contents of the files, and taking the decisions of the licenses associated with it.
-  2. License Browser: This included designing the appropriate APIs for serving all the details regarding the tree view of files and the licenses associated with a specific upload.
-  4. Folder and Content Management: The tasks included desgining the missing APIs for managing the folder contents such as retrieving removable contents, and unlinking contents from specific parent folders.
-  5. Admin Dashboard Management: This task included desigining the APIs responsible for serving the full components of the dashboard such as database metrics, jobs statistics etc.
-  6. License Admin: This task included desiging the REST APIs enabling the Admin to manage the ackngoweledments and the standard comments.
-  7. CSV Operations: The task included desiginnig the REST APIs for importing and exporting the Licenses, and obligations.
-  8. Scheduler: The task included the REST APIs to enable the Admin to get different operations and the gives them the capability of runing specific operations in the project. 
-  9. FOssology API V2 configuration: The task included restructuring the REST APIs configuration such that It is able to serve the Version 2 of the REST APIs.
+  1. License File View Management: This included the tasks of extracting the contents of the files, and taking the clearing decisions of the licenses associated with it.
+  2. #### License Browser:
+     I designed a set of APIs to facilitate the presentation of a tree view of files and their corresponding license details. Additionally, I implemented APIs that provided summary statistics 
+     about the licenses associated with a particular uploaded content.
+  4. Folder and Content Management: The task included desgining the missing APIs for managing the folder contents such as retrieving removable contents, and unlinking contents from specific parent folders.
+  5. Admin Dashboard Management: This task included desigining the APIs responsible for serving the different components of the Admin dashboard such as database metrics, jobs statistics etc.
+  6. License Admin: This task included developing the REST APIs enabling the Admin to manage the ackngoweledments and the standard comments.
+  7. CSV Operations: The task included desiginnig the REST APIs for importing and exporting the Licenses, and the obligations.
+  8. Scheduler: The task included developing the REST APIs to enable the Admin to get different operations and the gives the Admin the a bility of runing specific operations in the project. 
+  9. FOssology API V2 configuration: The task included enhancing the REST APIs configuration such that It is able to serve the Version 2 of the REST APIs, and allowing for the easy addition of the future versions.
 
 
 Let's dive into each category in details to showcase all the contributions with the corresponding tests in screenshots where possible and the respective links to the Pull requests.
 
-##  LICENSE FILE VIEW MANAGEMENT :sparkles:
+##  License File View Management :sparkles:
 
 1. Setting the clearing decision for a particular file [#2460](https://github.com/fossology/fossology/pull/2460)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/c1dc616c-aa8e-44d1-8990-0be63503a0c5)
