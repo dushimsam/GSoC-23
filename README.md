@@ -235,14 +235,11 @@ In the pipeline are several exciting improvements to look forward to:
 
 ## Major Takeaways: 📚
 
-- The project has familiarized me to write clean code for the REST-API end points.
-- I was taught how to write smart urls for my end points.
-- I explored the best practices of writing Javascript codes specifically for React Js.
-- Left me with a tangible experience of working remotely.
-- Gained the confidence of working on large codebases and learned how to meintain consistency in the enormous community of contributors.
-- I learned the power of collaboration and working in a team.
-- Got cool experience on contributing to the opensource projects.
-- The last but not least i learned how to code like an expert , it was a great privilege to learn from the previous work of the talented engineers a broad.
+- Work Proficiency in Remote culture.
+- Getting started and contributing to Large Codebases with Confidences.
+- Embracing the culture of Collaboration and Teamwork.
+- Hands-On experience in Open Source Contribution.
+- Growth in writing clean code and coding Proficiency.
 
 ## Links of work done: 🎯
 
