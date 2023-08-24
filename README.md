@@ -245,8 +245,7 @@ In the pipeline are several exciting improvements to look forward to:
 
 ### Pull Requests 🔗
 
-- [FOSSology](https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Adushimsam)
-- [FOSSologyUI](https://github.com/fossology/FOSSologyUI/pulls?q=is%3Apr+author%3Adushimsam)
+- [FOSSology](https://github.com/fossology/fossology/pulls?page=1&q=is%3Apr+author%3Adushimsam+created%3A2023-05-01..2023-10-01)
 
 # Let's get connected!
 
