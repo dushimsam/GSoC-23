@@ -211,11 +211,11 @@ Throughout the 12 weeks of the GSoC period, I dedicated time to create weekly do
 
 | Tasks   | Planned | Completed     | Remarks    |
 | :---:       |    :----:   |    :---:      |    :---:      |
-| Adding new pages and improved existing UI   | Yes       | :heavy_check_mark: | The UI still needs more work both on the look and functionalities to enhance the user experience. |
-| Adding almost all APIs on GROUPs module , Maintenance and License   | Yes        | :heavy_check_mark:  | More APIs will continously need to be added as the UI Migration progresses |
-| Fixing some potential the existing bugs| Yes | :heavy_check_mark: | There're still alot of issues to work on , escpecially on the side of  [FOSSology](https://github.com/fossology/fossology/issues) |
-| Fixing Vulnerable FOSSology UI's dependencies| NO (WAS OPTIONAL) | :x: | Dependencies are continously added so this's approgressive task|
-| Integrating OAuth 2.0 | NO (WAS OPTIONAL) | :x: | Got the overview still needs more lessons to learn how to integrate it in the existing projects|
+| Completed all the APIs that were assigned to me on the task sheet | Yes       | :heavy_check_mark: | Some APIs need to be improved them to meet the same standards and conventions for the V2 |
+| I have improved the existing functionalities for the APIs to provide better service to the consumers. | Yes        | :heavy_check_mark:  |  |
+| Improved the FOSSology API's configuration for easier integration with the REST API V2| Yes | :heavy_check_mark: | There's still a lot of work ahead to ensure that all the APIs follow the new standards and conventions for their requests and response models |
+| Integrating the new APIs on the FOSSology UI side | NO (WAS OPTIONAL) | :x: | This is an ongoing work, as we will add more APIs in the future |
+| Implementing the OAuth 2.0 | NO (WAS OPTIONAL) | :x: | We are looking how to use it with Slim |
 
 ## Future enhancements:🚀
 
