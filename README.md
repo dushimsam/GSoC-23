@@ -223,19 +223,15 @@ make this more clearer
 In the pipeline are several exciting improvements to look forward to:
 
 - #### Updating REST APIs to Version 2 Standards:
-   We plan to update the existing REST APIs to align with the latest standards of Version 2. This update will ensure enhanced functionality, better usability, and improved compatibility with 
+   Planning to update the existing REST APIs to align with the latest standards of Version 2. This update will ensure enhanced functionality, better usability, and improved compatibility with 
    evolving requirements.
-- #### Integrating the new APIs on the FOSSOlogy UI.
-- Improving the performance of the APIs in terms of the response time and speed.
-- Increasing the compatibility of the current architecture (Monolithic) and the REST API architecture.
-
-
-
-Integration of New APIs with FOSSology UI: We're working on seamlessly integrating the newly developed APIs into the FOSSology user interface. This integration will provide users with a unified and intuitive experience, making it even more convenient to manage licenses and related tasks.
-
-Performance Boost for APIs: We're dedicated to enhancing the performance of the APIs in terms of response time and speed. This optimization will lead to quicker interactions, allowing users to efficiently navigate and interact with the platform.
-
-Enhanced Compatibility between Architectures: We're striving to improve compatibility between the current monolithic architecture and the REST API architecture. This will ensure a smooth transition, maintain a cohesive system, and enable efficient coexistence of both architectural styles.
+- #### Integration of New APIs with FOSSology UI:
+   There's still a work on integrating the newly developed APIs into the FOSSology user interface to finish the work of migrating FOSSology to Full-stack architecture.
+- #### Performance Boost for APIs:
+   There's a huge work on enhancing the performance of the APIs in terms of response time and speed, by incorparating different techniques like Caching.
+- #### Enhanced Compatibility between the Architectures:
+   There's a need in improving the compatibility between the current monolithic architecture and the new REST API architecture, such that the change on one end won't affect the performance of 
+   the other. 
 
 ## Major Takeaways: 📚
 
