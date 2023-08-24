@@ -1,7 +1,7 @@
 <h1 align="center">Google Summer of Code 2023 <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1>
 
 <p align="center"><i>A full report on my Google Summer of Code 2023 work with FOSSology</i></p>
-<p align="center"><i>Project: "REST API and UI improvements" </i>  👨‍💻</p>
+<p align="center"><i>Project: "REST API Improvements" </i>  👨‍💻</p>
 
 <p align="center">
         <img src="https://64.media.tumblr.com/c93f16953341ab06acd12b493659bdee/tumblr_mr68hhmVE11r5ikx8o1_400.gif" width="100">
@@ -48,7 +48,8 @@ In this article am going to outline the details of my contributions as a referen
      I improved the configuration of the REST APIs to accommodate FOssology API Version 2. This enhancement ensured compatibility with future versions and streamlined the process of 
      incorporating upcoming changes.
 
-Let's dive into each category in details to showcase all the contributions with the corresponding tests in screenshots where possible and the respective links to the Pull requests.
+Let's dive deep into each category in more details to showcase all the contributions with the corresponding tests in screenshots where applicable, and the respective links to the Pull requests.
+
 
 ##  License File View Management :sparkles:
 
