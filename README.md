@@ -225,7 +225,7 @@ In the pipeline are several exciting improvements to look forward to:
 - #### Updating REST APIs to Version 2 Standards:
    We plan to update the existing REST APIs to align with the latest standards of Version 2. This update will ensure enhanced functionality, better usability, and improved compatibility with 
    evolving requirements.
-- Integrating the new APIs on the FOSSOlogy UI.
+- #### Integrating the new APIs on the FOSSOlogy UI.
 - Improving the performance of the APIs in terms of the response time and speed.
 - Increasing the compatibility of the current architecture (Monolithic) and the REST API architecture.
 
