@@ -26,17 +26,27 @@ In this article am going to outline the details of my contributions as a referen
 
 During this period i have been working on specifically on 8 features:
 
-  1. License File View Management: This included the tasks of extracting the contents of the files, and taking the clearing decisions of the licenses associated with it.
-  2. #### License Browser:
+  1. #### License File View Management:
+     I developed the REST APIs that tackled on extracting file contents and making the clearing decisions about associated licenses. This involved extracting, processing and highlighting 
+     license information from the files.
+  3. #### License Browser:
      I designed a set of APIs to facilitate the presentation of a tree view of files and their corresponding license details. Additionally, I implemented APIs that provided summary statistics 
      about the licenses associated with a particular uploaded content.
-  4. Folder and Content Management: The task included desgining the missing APIs for managing the folder contents such as retrieving removable contents, and unlinking contents from specific parent folders.
-  5. Admin Dashboard Management: This task included desigining the APIs responsible for serving the different components of the Admin dashboard such as database metrics, jobs statistics etc.
-  6. License Admin: This task included developing the REST APIs enabling the Admin to manage the ackngoweledments and the standard comments.
-  7. CSV Operations: The task included desiginnig the REST APIs for importing and exporting the Licenses, and the obligations.
-  8. Scheduler: The task included developing the REST APIs to enable the Admin to get different operations and the gives the Admin the a bility of runing specific operations in the project. 
-  9. FOssology API V2 configuration: The task included enhancing the REST APIs configuration such that It is able to serve the Version 2 of the REST APIs, and allowing for the easy addition of the future versions.
-
+  4. #### Folder and Content Management:
+     The task encompassed creating essential APIs for managing folder contents. This involved tasks such as retrieving removable contents from folders and unlinking contents from specific 
+     parent folders.
+  5. #### Admin Dashboard Management:
+     I played a role in designing APIs that served different components of the Admin dashboard. These APIs provided data such as database metrics and job statistics, contributing to the 
+     effective monitoring of the system.
+  6. #### License Admin Management:
+     I developed REST APIs that helped the system Admin to handle different operations on acknowledgments and standard comments related to licenses.
+  7. #### CSV Operations:
+     Another aspect of my work involved designing REST APIs for importing and exporting licenses and obligations using CSV files.
+  8. #### Manual Scheduling of Operations:
+     I created REST APIs that allowed administrators to schedule and execute various operations manually. 
+  9. #### FOssology API V2 configuration:
+     I improved the configuration of the REST APIs to accommodate FOssology API Version 2. This enhancement ensured compatibility with future versions and streamlined the process of 
+     incorporating upcoming changes.
 
 Let's dive into each category in details to showcase all the contributions with the corresponding tests in screenshots where possible and the respective links to the Pull requests.
 
