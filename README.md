@@ -233,7 +233,7 @@ In the pipeline are several exciting improvements to look forward to:
 ## Major Takeaways: 📚
 
 - Work Proficiency in Remote culture.
-- Getting started and contributing to Large Codebases with Confidences.
+- Getting started and contributing to Large Codebases with Confidence.
 - Embracing the culture of Collaboration and Teamwork.
 - Hands-On experience in Open Source Contribution.
 - Growth in writing clean code and coding Proficiency.
