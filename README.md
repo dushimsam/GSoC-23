@@ -210,7 +210,7 @@ Throughout the 12 weeks of the GSoC period, I dedicated time to create weekly do
 
 | Tasks   | Planned | Completed     | Remarks    |
 | :---:       |    :----:   |    :---:      |    :---:      |
-| Completed all the APIs that were assigned to me on the task sheet | Yes       | :heavy_check_mark: | Some APIs need to be improved them to meet the same standards and conventions for the V2 |
+| Completed all the APIs that were assigned to me on the task sheet | Yes       | :heavy_check_mark: | Some APIs need to be improved to meet the same standards and conventions for the V2 |
 | I have improved the existing functionalities for the APIs to provide better service to the consumers. | Yes        | :heavy_check_mark:  |  |
 | Improved the FOSSology API's configuration for easier integration with the REST API V2| Yes | :heavy_check_mark: | There's still a lot of work ahead to ensure that all the APIs follow the new standards and conventions for their requests and response models |
 | Integrating the new APIs on the FOSSology UI side | NO (WAS OPTIONAL) | :x: | This is an ongoing work, as we will add more APIs in the future |
