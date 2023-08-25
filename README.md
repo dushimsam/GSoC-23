@@ -122,7 +122,7 @@ Let's dive deep into each category in more details to showcase all the contribut
 1. Get all the licenses admin acknowledgements [#2512](https://github.com/fossology/fossology/pull/2512)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/e7d0dc8c-37f1-4d4c-ac83-343c75a18f1d)
 
-3. Manage (Add, Edit, Remove & toggle) license admin acknowledgment [#2516](https://github.com/fossology/fossology/pull/2516)
+3. Manage (Add, Edit & toggle) license admin acknowledgment [#2516](https://github.com/fossology/fossology/pull/2516)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/366b748e-e289-45f8-a489-67db12f6ebf0)
    ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/266b2b82-da5d-4783-bb6e-dbc00f9f0b55)
 
@@ -199,7 +199,6 @@ Let's dive deep into each category in more details to showcase all the contribut
 ## FOSSology API V2 configuration :sparkles:
 
 Redesigned the FOSSology API Config to support version 2 of REST APIs. Currently, the codebase was designed to support only version 1 of REST APIS which would be hard to introduce and utilize the new features offered by Version 2. [#2576](https://github.com/fossology/fossology/pull/2576)
- 
 
 
 ## Documentation:📄
