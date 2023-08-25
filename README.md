@@ -44,8 +44,8 @@ In this article am going to outline the details of my contributions as a referen
      Another aspect of my work involved designing REST APIs for importing and exporting licenses and obligations using CSV files.
   8. #### Manual Scheduling of Operations:
      I created REST APIs that allowed administrators to schedule and execute various operations manually. 
-  9. #### FOssology API V2 configuration:
-     I improved the configuration of the REST APIs to accommodate FOssology API Version 2. This enhancement ensured compatibility with future versions and streamlined the process of 
+  9. #### FOSSology API V2 configuration:
+     I improved the configuration of the REST APIs to accommodate FOSSology API Version 2. This enhancement ensured compatibility with future versions and streamlined the process of 
      incorporating upcoming changes.
 
 Let's dive deep into each category in more details to showcase all the contributions with the corresponding tests in screenshots where applicable, and the respective links to the Pull requests.
@@ -196,7 +196,7 @@ Let's dive deep into each category in more details to showcase all the contribut
  3. Import the obligations from the CSV  [#2563](https://github.com/fossology/fossology/pull/2563)
     ![image](https://github.com/dushimsam/GSoC-23/assets/66276301/ef77556f-715d-4ceb-b8b7-6f7b5a935624)
 
-## FOssology API V2 configuration :sparkles:
+## FOSSology API V2 configuration :sparkles:
 
 Redesigned the FOSSology API Config to support version 2 of REST APIs. Currently, the codebase was designed to support only version 1 of REST APIS which would be hard to introduce and utilize the new features offered by Version 2. [#2576](https://github.com/fossology/fossology/pull/2576)
  
@@ -216,8 +216,6 @@ Throughout the 12 weeks of the GSoC period, I dedicated time to create weekly do
 | Improved the FOSSology API's configuration for easier integration with the REST API V2| Yes | :heavy_check_mark: | There's still a lot of work ahead to ensure that all the APIs follow the new standards and conventions for their requests and response models |
 | Integrating the new APIs on the FOSSology UI side | NO (WAS OPTIONAL) | :x: | This is an ongoing work, as we will add more APIs in the future |
 | Implementing the OAuth 2.0 | NO (WAS OPTIONAL) | :x: | We are looking how to use it with Slim |
-
-make this more clearer 
 
 ## Future enhancements:🚀
 In the pipeline are several exciting improvements to look forward to:
